@@ -1,0 +1,37 @@
+
+body{
+    background-color: lightgrey;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.header{
+    
+    color: white;
+    background-color: green;
+    height: 5rem;
+    padding-top: 0;
+}
+
+.table{
+    padding-top: 10rem;
+    width: 80rem;
+}
+
+.col-1, .col-3, .col-4{
+    font-size: 16pt;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+
+.col-1{
+    border-left:0px!important;
+}
+
+.testClick, .testomania{
+    margin-top:10rem;
+    height:10rem;
+    background-color:black;
+}
+
+.testomania{
+    background-color:blue;
+}
